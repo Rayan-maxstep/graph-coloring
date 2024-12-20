@@ -1,0 +1,25 @@
+input1:
+
+Vertex 0 -> Color 1
+Vertex 1 -> Color 2
+Vertex 2 -> Color 2
+Vertex 3 -> Color 1
+
+number of color:2
+
+input2:
+
+Vertex  0-> Color   1
+Vertex  1-> Color   2
+Vertex  2-> Color   1
+Vertex  3-> Color   2
+Vertex  4-> Color   3
+
+
+number of color:3
+
+
+Vertex  0-> Color   1
+Vertex  1-> Color   2
+Vertex  2-> Color   1
+Vertex  3-> Color   3
